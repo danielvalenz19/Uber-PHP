@@ -1,0 +1,2 @@
+<?php
+$Car=new car();
